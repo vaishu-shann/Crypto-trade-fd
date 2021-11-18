@@ -138,33 +138,4 @@ const Home = () => {
 
 export default Home;
 
-{
-  /* <div className="input-area1">
-<Row justify="center">
-  <Col>
-    <label style={{padding:"0 12px"}}> Price: </label>
-  </Col>
-  <Col>
-    <Input
-      className="textbox"
-      placeholder="price "
-      style={{ margin: "auto 20px" }}
-    />
-  </Col>
-</Row>
-</div>
-<div className="input-area2">
-<Row justify="center">
-  <Col>
-    <label> Quantity: </label>
-  </Col>
-  <Col>
-    <Input
-      className="textbox"
-      placeholder="quantity "
-      style={{ margin: "auto 20px" }}
-    />
-  </Col>
-</Row>
-</div> */
-}
+
